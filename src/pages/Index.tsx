@@ -133,8 +133,8 @@ export default function Index() {
             <div className="relative animate-scale-in">
               <div className="aspect-square bg-muted rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://cdn.poehali.dev/projects/a0a9de8e-917a-40f2-9ab0-303ef1b2c050/files/d1940a50-4d5b-4822-883d-a10249281b57.jpg"
-                  alt="Ремесленная мастерская"
+                  src="https://cdn.poehali.dev/projects/a0a9de8e-917a-40f2-9ab0-303ef1b2c050/files/b509a613-1822-490d-922b-9af3729c81e2.jpg"
+                  alt="Ткацкая мастерская"
                   className="w-full h-full object-cover"
                 />
               </div>
